@@ -1,0 +1,9 @@
+C:\Users\Gihan Wijesekara\Desktop\testangular\NestedLevelAnalyzer\bin\Debug\NestedLevelAnalyzer.exe.config
+C:\Users\Gihan Wijesekara\Desktop\testangular\NestedLevelAnalyzer\bin\Debug\NestedLevelAnalyzer.exe
+C:\Users\Gihan Wijesekara\Desktop\testangular\NestedLevelAnalyzer\bin\Debug\NestedLevelAnalyzer.pdb
+C:\Users\Gihan Wijesekara\Desktop\testangular\NestedLevelAnalyzer\obj\Debug\NestedLevelAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\Gihan Wijesekara\Desktop\testangular\NestedLevelAnalyzer\obj\Debug\NestedLevelAnalyzer.NestedLevel.resources
+C:\Users\Gihan Wijesekara\Desktop\testangular\NestedLevelAnalyzer\obj\Debug\NestedLevelAnalyzer.Properties.Resources.resources
+C:\Users\Gihan Wijesekara\Desktop\testangular\NestedLevelAnalyzer\obj\Debug\NestedLevelAnalyzer.csproj.GenerateResource.Cache
+C:\Users\Gihan Wijesekara\Desktop\testangular\NestedLevelAnalyzer\obj\Debug\NestedLevelAnalyzer.exe
+C:\Users\Gihan Wijesekara\Desktop\testangular\NestedLevelAnalyzer\obj\Debug\NestedLevelAnalyzer.pdb
